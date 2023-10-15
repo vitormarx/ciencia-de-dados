@@ -36,7 +36,7 @@ Este repositório está organizado da seguinte forma:
 
 ## Recursos Adicionais
 
-- [Livros recomendados](Manual de Análise de Dados, Estatística e Modelagem Multivariada  )
+- `[Livros recomendados]`:(Manual de Análise de Dados, Estatística e Modelagem Multivariada  )
 
 ## Contribuições
 
