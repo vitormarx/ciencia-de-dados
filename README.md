@@ -5,17 +5,17 @@ Bem-vindo ao nosso repositório de Ciência de Dados, Estatística e Machine Lea
 ## Tópicos Principais
 
 ### 📈 Estatística
-- Introdução à Estatística Descritiva
-- Análise Exploratória de Dados
-- Testes de Hipóteses
-- Regressão Estatística
+- Introdução à Estatística Descritiva ✔️
+- Análise Exploratória de Dados ⚠️
+- Testes de Hipóteses ⚠️
+- Regressão Estatística ⚠️
 
 ### 🤖 Machine Learning
-- Aprendizado Supervisionado
-- Aprendizado Não Supervisionado
-- Processamento de Linguagem Natural (NLP)
-- Visão Computacional
-- Modelos de Deep Learning
+- Aprendizado Supervisionado ⚠️
+- Aprendizado Não Supervisionado ⚠️
+- Processamento de Linguagem Natural (NLP) ⚠️
+- Visão Computacional ⚠️
+- Modelos de Deep Learning ⚠️
 
 ## Estrutura do Repositório
 
@@ -26,13 +26,13 @@ Este repositório está organizado da seguinte forma:
 
 ## Como Começar
 
-1. Clone este repositório:
+1. Clone este repositório: `git clone https://github.com/vitormarx/ciencia-de-dados.git` 
 
-2. Explore os notebooks, scripts e conjuntos de dados disponíveis.
+3. Explore os notebooks, scripts e conjuntos de dados disponíveis.
 
-3. Execute os exemplos e experimente com seus próprios dados.
+4. Execute os exemplos e experimente com seus próprios dados.
 
-4. Contribua! Se você tem algo a adicionar, fique à vontade para abrir um Pull Request.
+5. Contribua! Se você tem algo a adicionar, fique à vontade para abrir um Pull Request.
 
 ## Recursos Adicionais
 
