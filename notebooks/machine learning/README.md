@@ -13,7 +13,7 @@ Bem-vindo ao repositório do projeto de Machine Learning! Este projeto visa a so
 Nessa etapa vamos habilitar as funcionalidades do kaggle, pois utilizaremos bastante a API para trazer datasets da plataforma
 
 run:
-````!pip install kaggle``
+```!pip install kaggle```
 
 Login in Kaggle's Website and go to <a href='https://www.kaggle.com/settings'>settings</a>. You need to generate a token, then run the command bellow:
 ```!mkdir ~/kaggle```
